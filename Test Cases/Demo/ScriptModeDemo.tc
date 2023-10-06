@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ScriptModeDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37ccfb00-5241-4e68-939f-7f1e4f5a8b74</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5377d7ff-4efd-4feb-ac43-a0477a3fe4b3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'sunny'</defaultValue>
+      <description></description>
+      <id>5377d7ff-4efd-4feb-ac43-a0477a3fe4b3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
